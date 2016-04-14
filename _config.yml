@@ -1,0 +1,28 @@
+name: El Rey del Once
+favicon: null
+layout_spectrum: 0.3009069701656699
+typography_spectrum: 0.5392502211034298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6810592103283852
+  lightness: 0.3992993312422186
+  saturation: 0.42199051287025213
+  rhythmicContrast: 0.4419234881643206
+purpose: []
