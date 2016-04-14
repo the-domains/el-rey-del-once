@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[El Rey del Once]]></title>
         <description><![CDATA[El Rey del Once]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/el-rey-del-once/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 20:11:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 20:11:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/el-rey-del-once/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Revista Noticias]]></title>
+            <description><![CDATA[<article><h1>Revista Noticias</h1><p>(Argentina, 2016, 90′) Comedia. Dirección: Daniel Burman. Con Alan Sabbagh, Julieta Zylberberg, Usher. Apta para mayores de 13 años. Por Leonardo D'Espósito ★★★★ El regreso de Daniel Burman al mundo de la comunidad judía del Once es, como el del protagonista del film, un viaje de redescubrimiento.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e416dcce1284079e1375e3286a50cf2f314dd05b.jpg"></article>]]></description>
+            <link>http://noticias.perfil.com/2016/02/12/el-rey-del-once/</link>
+            <guid isPermaLink="false">8d01baa9-23a6-43e0-bf90-d6079618921e</guid>
+            <pubDate>Thu, 14 Apr 2016 20:10:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["El rey del Once": Recuperar el abrazo]]></title>
             <description><![CDATA[<article><h1>"El rey del Once": Recuperar el abrazo</h1><p>Aunque parezca que simplemente ha optado por volver al universo de sus primeras obras, a eso que aquí llama comunidad, Daniel Burman potencia la economía de su relatos en El rey del Once. Corre sino el riesgo de repetirse tal vez sí el de encasillarse. Pero, ¿será malo encasillarse?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47e12741760d34a72259c8054e08d79c7b12af6f.jpg"></article>]]></description>
